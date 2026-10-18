@@ -1,0 +1,30 @@
+.............................                                            [100%]
+=============================== warnings summary ===============================
+tests/test_fd_artifacts.py::test_raw_artifacts_reconstruct_cost_and_partial_runs_excluded
+  /private/tmp/fd-test-venv/lib/python3.9/site-packages/matplotlib/_fontconfig_pattern.py:64: PyparsingDeprecationWarning: 'oneOf' deprecated - use 'one_of'
+    prop = Group((name + Suppress("=") + comma_separated(value)) | oneOf(_CONSTANTS))
+
+tests/test_fd_artifacts.py::test_raw_artifacts_reconstruct_cost_and_partial_runs_excluded
+tests/test_fd_artifacts.py::test_raw_artifacts_reconstruct_cost_and_partial_runs_excluded
+tests/test_fd_artifacts.py::test_raw_artifacts_reconstruct_cost_and_partial_runs_excluded
+tests/test_fd_artifacts.py::test_raw_artifacts_reconstruct_cost_and_partial_runs_excluded
+tests/test_fd_artifacts.py::test_raw_artifacts_reconstruct_cost_and_partial_runs_excluded
+tests/test_fd_artifacts.py::test_raw_artifacts_reconstruct_cost_and_partial_runs_excluded
+  /private/tmp/fd-test-venv/lib/python3.9/site-packages/matplotlib/_fontconfig_pattern.py:85: PyparsingDeprecationWarning: 'parseString' deprecated - use 'parse_string'
+    parse = parser.parseString(pattern)
+
+tests/test_fd_artifacts.py::test_raw_artifacts_reconstruct_cost_and_partial_runs_excluded
+tests/test_fd_artifacts.py::test_raw_artifacts_reconstruct_cost_and_partial_runs_excluded
+tests/test_fd_artifacts.py::test_raw_artifacts_reconstruct_cost_and_partial_runs_excluded
+tests/test_fd_artifacts.py::test_raw_artifacts_reconstruct_cost_and_partial_runs_excluded
+tests/test_fd_artifacts.py::test_raw_artifacts_reconstruct_cost_and_partial_runs_excluded
+tests/test_fd_artifacts.py::test_raw_artifacts_reconstruct_cost_and_partial_runs_excluded
+  /private/tmp/fd-test-venv/lib/python3.9/site-packages/matplotlib/_fontconfig_pattern.py:89: PyparsingDeprecationWarning: 'resetCache' deprecated - use 'reset_cache'
+    parser.resetCache()
+
+tests/test_fd_artifacts.py::test_raw_artifacts_reconstruct_cost_and_partial_runs_excluded
+  /private/tmp/fd-test-venv/lib/python3.9/site-packages/matplotlib/_mathtext.py:45: PyparsingDeprecationWarning: 'enablePackrat' deprecated - use 'enable_packrat'
+    ParserElement.enablePackrat()
+
+-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
+29 passed, 14 warnings in 8.60s
